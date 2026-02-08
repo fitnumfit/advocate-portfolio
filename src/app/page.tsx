@@ -8,7 +8,7 @@ import Services from "@/components/Services";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white text-slate-900">
+    <div className="min-h-screen min-w-0 bg-white text-slate-900">
       <Header />
       <Marquee />
       <main>
